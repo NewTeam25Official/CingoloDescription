@@ -11,3 +11,13 @@ Just a bunch guys making robots and other stuff. Here you only see the "good" si
 ![WhatsApp Image 2025-05-20 at 17 54 50](https://github.com/user-attachments/assets/1a1b74e9-acec-4aac-8398-9093389ee710)
 ![WhatsApp Image 2025-05-20 at 17 57 17](https://github.com/user-attachments/assets/d4571786-0821-490d-a4dc-ab4ad19ea3ab)
 
+
+# About the competion
+The land is too dangerous for humans to reach the victims. Your team has been given a difficult task. The
+robot must be able to carry out a rescue mission in a fully autonomous mode with no human assistance.
+The robot must be durable and intelligent enough to navigate treacherous terrain with hills, uneven
+land, and rubble without getting stuck. When the robot reaches the victims, it has to gently and carefully
+transport each one to the safe evacuation point where humans can take over the rescue. The robot
+should exit the evacuation zone after a successful rescue to continue its mission throughout the disaster
+scene until it leaves the site. Time and technical skills are essential! Come prepared to be the most
+successful rescue team.
