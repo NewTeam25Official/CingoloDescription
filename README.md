@@ -2,7 +2,7 @@
 Here you can find one of the teams from Italy documentation from IISS Erodoto di Thurii school in Calabria.
 ![WhatsApp Image 2025-05-20 at 17 54 50](https://github.com/user-attachments/assets/cbaaa034-8bad-4963-bb4b-31b87bf88e44)
 ![WhatsApp Image 2025-05-20 at 17 57 17](https://github.com/user-attachments/assets/2aaa2e29-9070-42d7-bd97-4ae94c70a947)
-Here there is our <a href="/codes/">code</a> that maked us 4th in the nationals! (only works on the Raspberry Pi 4)
+Here there is our <a href="/codes/CingoloGaramodifiche2.py">code</a> that maked us 4th in the nationals! (only works on the Raspberry Pi 4)
 
 
 # About the team
