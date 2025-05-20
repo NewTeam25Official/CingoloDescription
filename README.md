@@ -20,4 +20,5 @@ land, and rubble without getting stuck. When the robot reaches the victims, it h
 transport each one to the safe evacuation point where humans can take over the rescue. The robot
 should exit the evacuation zone after a successful rescue to continue its mission throughout the disaster
 scene until it leaves the site. Time and technical skills are essential! Come prepared to be the most
-successful rescue team.
+successful rescue team.![Screenshot 2025-05-20 182818](https://github.com/user-attachments/assets/18973f24-51a2-41cb-a6dd-a231c8d41953)
+
