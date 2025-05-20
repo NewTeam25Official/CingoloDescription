@@ -7,7 +7,8 @@ Here there is our code that maked us 4th in the nationals! (only works on the Ra
 # About the team
 <p align="center"><i>
 Just a bunch guys making robots and other stuff. Here you only see the "good" side of us but in reality we're "bad", i mean "BAD" (like Michael Jackson's "Bad")
-![Poster NewTeam25](https://github.com/user-attachments/assets/81f7554b-c489-4667-8b14-4bd34a741b0e)
+
+![Poster NewTeam25](https://github.com/user-attachments/assets/80797fc9-b554-459e-9da6-8f9f7accaafc)
 
 
 
