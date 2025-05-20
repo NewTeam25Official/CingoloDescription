@@ -12,7 +12,7 @@ Just a bunch guys making robots and other stuff. Here you only see the "good" si
 ![Poster NewTeam25](https://github.com/user-attachments/assets/80797fc9-b554-459e-9da6-8f9f7accaafc)
 
 
-# About the competion
+# About the competition
 The land is too dangerous for humans to reach the victims. Your team has been given a difficult task. The
 robot must be able to carry out a rescue mission in a fully autonomous mode with no human assistance.
 The robot must be durable and intelligent enough to navigate treacherous terrain with hills, uneven
