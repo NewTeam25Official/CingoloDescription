@@ -9,7 +9,7 @@ Here there is our <a href="/codes/CingoloGaramodifiche2.py">code</a> that maked 
 <p align="center"><i>
 Just a bunch guys making robots and other stuff. Here you only see the "good" side of us but in reality we're "bad", i mean "BAD" (like Michael Jackson's "Bad")
 
-![Poster NewTeam25](https://github.com/user-attachments/assets/98cae393-96b9-4611-935b-88346232f0f5)
+![Poster NewTeam25](https://github.com/user-attachments/assets/a4ce0448-fd54-4c2c-852f-1b663d9dc307)
 
 
 
